@@ -1,0 +1,174 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+.stylinglogo{
+    width:160px;
+    height:70px;
+}
+#go{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    border:0px;
+}
+#go:hover{
+    color: #c90202;
+}
+#goo1{
+    background-color: #ff0000;
+    color:white;
+    padding:5px 10px;
+    border-radius:5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    border:0px;
+    margin-left:20px;
+}
+#goo1:hover{
+    background-color: grey;
+    color:#c90202
+}
+.bgimg1{
+    background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+    background-size: cover;
+    height:70vh;
+    width:100vw;
+}
+.cr11{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.cre2{
+    color:white;
+    font-size:24px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.head{
+    background-color: red;
+    color:white;
+    width:230px;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius:8px;
+    border-width:none;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bgcolor2{
+    background-color:#f9fbfe;
+}
+.head2{
+    color:#183b56;
+    font-size:28px;
+    font-weight:700;
+}
+.para2{
+    color:#183b56;
+    font-size:16px;
+}
+.carding{
+    text-align:center;
+    border-color:#e5eaf4;
+    border-radius:16px;
+    border-width:1px;
+    border-style:solid;
+    background-color: white;
+}
+.cardimage{
+    width:87px;
+    height:90px;
+}
+.chead{
+    color:#323f4b;
+    font-size:22px;
+    font-weight:bold;
+}
+.cpara{
+    color:#7b8794;
+    font-size:600;
+}
+.offer{
+    color:#323f4b;
+    font-style:italic;
+    font-weight:600;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+}
+.bgcolor4{
+    background-color:white;
+}
+.explorehead{
+    color:#183b56;
+    font-size:28px;
+    font-weight:bold;
+}
+.explorecards{
+    border-radius: 16px;      
+}
+.exploreimage{
+    border-radius: 16px;
+}
+.cardhead4{
+    color:#323f4b;
+    font-size:18px;
+    font-weight:bold;
+    margin-top:24px;
+}
+.explorelink{
+    color: #c90202; 
+    font-size:14px; 
+    font-weight:bold;
+}
+
+.aparna{
+    background-color:white;
+}
+.paymentimg{
+    width:350px;
+}
+.payhead{
+    color:#183b56;
+    font-weight:bold;
+    font-size:28px;
+}
+.paypara{
+    color:#5a7184;
+    font-size:16px;
+}
+.buttoncst{
+    color:white;
+    background-color:red;
+    border-width:0px;
+    border-right:8px;
+    width:130px;
+    height:45px;
+    margin-right:10px;
+}
+.paycarding{
+    width:50px;
+    height:50px;
+    margin-right:28px;  
+}
+#contact{
+    background-color:grey;
+    padding-bottom:4em;
+}
+.socialicons{
+    font-size:40px;
+    cursor:pointer;
+}
+.fa-brands{
+    color:white;
+    margin:40px;
+}
+.fa-brands:hover{
+    color:purple;
+}
